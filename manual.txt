@@ -4,12 +4,17 @@ Seguinte, fizemos um git clone do repositorio para nosso PC
 
 -Criamos um Arquivo chamado manual.txt
 
+-Configuramos o nome do Usuario eo email do usuario 
+
 -Fizemos o Commit e finalizamos um push na master 
 
 Mostramos os codigos seguidos:
 git clone (url do repositorio)
+git config --global user.name "Renan" (uma vez só no git)
+git config --global user.email "renanbelchior1@gmail.com"  
 git status
 git add .
 git commit -m "Digitamos uma texto para descrever o que a gente fez"
 git status
 git push (precisamos  dxepois deste passo pasar nosso usuario e senha )
+
