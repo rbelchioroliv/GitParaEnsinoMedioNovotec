@@ -18,3 +18,4 @@ git commit -m "Digitamos uma texto para descrever o que a gente fez"
 git status
 git push (precisamos  dxepois deste passo pasar nosso usuario e senha )
 
+hgsaf\vsdfvkhsf
